@@ -1,0 +1,16 @@
+.home-container {
+  background: #152850;
+  height: 100vh;
+  width: 100vw;
+  padding: 2% 5% 0px 5%;
+}
+.home-content-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-family: Roboto;
+  color: #ffffff;
+}
+.digital-card {
+  width: 60%;
+}
